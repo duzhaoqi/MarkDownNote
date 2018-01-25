@@ -1,1 +1,7 @@
-# markdown_note
+# 说明
+用来记录一些`markdown`的常规用法，还有，常用的`markdown`工具都有那些，都在那些平台上可以使用
+
+---
+
+# 目录
+- 常用的`markdown`语法
